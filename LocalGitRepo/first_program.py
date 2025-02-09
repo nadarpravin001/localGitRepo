@@ -1,2 +1,2 @@
 print("This is a new git repo")
-print("This is a new feature updated")
+print("This is a new feature update_feature1")
